@@ -52,3 +52,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himaniaggarwal2&show_icons=true&locale=en" alt="himaniaggarwal2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himaniaggarwal2&" alt="himaniaggarwal2" /></p>
+
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/himaniaggarwal2/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/himaniaggarwal2/)
